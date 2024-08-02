@@ -62,7 +62,7 @@
     "angular": "1.8.3",
     "angular-sanitize": "1.8.3",
     "backbone": "1.4.1",
-    "bootstrap": "4.6.1",
+    "bootstrap": "5.0.0",
     "bootswatch": "4.6.1",
     "chart.js": "3.8.0",
     "checklist-model": "1.0.0",
